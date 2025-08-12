@@ -43,20 +43,20 @@ You can either download the extension from [here](https://github.com/vicentedpsa
    git clone https://github.com/your-username/domain_swapper.git
    ```
 
-3. **Open Chrome Extension Management**
+2. **Open Chrome Extension Management**
    - Open Google Chrome
    - Type `chrome://extensions/` in the address bar and press Enter
    - Alternatively: Menu (⋮) → More tools → Extensions
 
-4. **Enable Developer Mode**
+3. **Enable Developer Mode**
    - Toggle the "Developer mode" switch in the top-right corner of the extensions page
 
-5. **Load the Extension**
+4. **Load the Extension**
    - Click the "Load unpacked" button that appears
    - Navigate to and select the `domain_swapper` folder (the one containing `manifest.json`)
    - The extension should now appear in your extensions list
 
-6. **Pin the Extension** (Optional but recommended)
+5. **Pin the Extension** (Optional but recommended)
    - Click the puzzle piece icon (🧩) in Chrome's toolbar
    - Find "Domain Swapper" and click the pin icon (📌)
    - The extension icon will now be visible in your toolbar
